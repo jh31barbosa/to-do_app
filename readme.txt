@@ -1,0 +1,1 @@
+This is a to-do application built on django with user register.
